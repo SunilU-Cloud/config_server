@@ -1,11 +1,12 @@
 build:
-  version: "1.0.0"
+  version: "2.0.0"
 accounts:
   message: "Hey welcome to sunil accounts API's"
   contactDetails:
-    name: "Sunil - Product Owner"
-    email: "sunilugale4444@gmail.com"
+    name: "Anil - Product Owner"
+    email: "anilugale00@gmail.com"
   onCallSupport:
     - 7875187258
     - 9373892361
     - 8978787878
+    - 7878676353
