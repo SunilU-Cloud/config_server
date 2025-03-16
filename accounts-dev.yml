@@ -3,7 +3,7 @@ build:
 accounts:
   message: "Hey welcome to sunil accounts API's"
   contactDetails:
-    name: "Sunil - Product Owner"
+    name: "Sunil - Dev support"
     email: "sunilugale4444@gmail.com"
   onCallSupport:
     - 7875187258
